@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+.env
+*.pyc
+real_alert.json
+real_alert_previous.json
+dashboard_alert.json
+alert.json
+alert_backup.json
+incident_audit.log
+analysis_result.txt
+incident_response.txt
+combined_incident_report.txt
